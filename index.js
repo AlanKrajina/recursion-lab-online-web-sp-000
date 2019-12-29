@@ -5,6 +5,7 @@ function printString(string){
 
     let mySubString = string.substring(1, myString.length);
     printString(mySubString);
+
     } else {
     return true;
   }
