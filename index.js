@@ -1,7 +1,7 @@
 // Code your solution here!
 function printString(string){
 
-  console.log(myString[0]);
+  console.log(string[0]);
 
   if (string.length > 1){
 
