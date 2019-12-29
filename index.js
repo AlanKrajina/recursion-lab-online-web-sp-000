@@ -1,4 +1,4 @@
-// Code your solution here!
+// function console logs first character and then calls itself to console log AGAIN first character
 function printString(string){
 
   console.log(string[0]);
