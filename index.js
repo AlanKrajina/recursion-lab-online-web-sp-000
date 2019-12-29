@@ -5,7 +5,7 @@ function printString(string){
 
   if (string.length > 1){
 
-    let mySubString = string.substring(1, myString.length);
+    let mySubString = string.substring(1, string.length);
     printString(mySubString);
 
     } else {
